@@ -8,7 +8,7 @@ class Solution:
         p = batcap/250
         area = (p*p)/2
         area = area-2((p*p)/4)((p*p)/4)
-        return battcap/250
+        return area
 
         pass 
 
