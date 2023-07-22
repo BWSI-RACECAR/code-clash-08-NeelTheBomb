@@ -7,7 +7,7 @@ class Solution:
         print(battcap)
         p = battcap/250
         area = (p*p)/2
-        area = area-(2*(((p*p)/4)*((p*p)/4)))
+        area = area-(2*(((p)/4)*((p)/4)))
         return area
 
         pass 
